@@ -1,2 +1,2 @@
-# todo_app
- This is a todo App
+# To DO App
+ToDO application built in flutter
